@@ -10,6 +10,9 @@
 
 - Clone the repo
 - Get into the directory
+- Create an env
+  - On Windows: ```python -m venv agent_env agent_env\Scripts\activate```
+  - On macOS/Linux: ```python3 -m venv agent_env source agent_env/bin/activate```
 - Run in terminal: ```pip install -r requirements.txt```
 
 ### Enjoy!
